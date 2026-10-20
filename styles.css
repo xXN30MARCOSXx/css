@@ -1,4 +1,37 @@
-#header{
-     text-align: center;
-
-}
+        #header{
+            text-align: center;
+            padding: 20px;
+        }
+        #main{
+            text-align: center;
+            padding: 20px;
+        }
+        #footer{
+            text-align: center;
+            padding: 20px;
+        }
+        .green-section{
+            border: white 2px solid;
+            border-radius: 30px;
+            background-color: rgb(43, 146, 43);
+        }
+        .blue-section{
+            border: white 2px solid;
+            border-radius: 30px;
+            background-color: rgb(53, 181, 255);
+        }
+        .yellow-section{
+            border: white 2px solid;
+            border-radius: 30px;
+            background-color: rgb(255, 255, 110);
+        }
+        .contacto{
+            border: white 2px solid;
+            border-radius: 30px;
+            background-color: rgb(230, 73, 230);
+        }
+        .mi-primera{
+            border: white 2px solid;
+            border-radius: 30px;
+            background-color: grey;
+        }
